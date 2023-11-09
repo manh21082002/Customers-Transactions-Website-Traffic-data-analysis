@@ -1,4 +1,4 @@
-![image](https://github.com/manh21082002/Customers-Transactions-Website-Traffic-data-analysis/assets/100988312/47190946-93e8-4f96-bba0-b0d7ad4a467e)# Customers-Transactions-Website-Traffic-data-analysis
+# Customers-Transactions-Website-Traffic-data-analysis
 Data Source: Momo's Data Analyst Test
 
 Description:
